@@ -8,3 +8,7 @@
 ## [2026-05-04] create | Wiki structure
 - Domain: Analysis of college value
 - Initial structure: SCHEMA.md, index.md, log.md
+
+## [2026-05-04] ingest | Educated and Free Substack
+- Added raw source: educated-and-free-substack-2025-12-19.md
+- Created 4 wiki pages: dissident-teacher, educational-alternatives, western-canon, college-vs-alternatives
